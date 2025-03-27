@@ -1,0 +1,6 @@
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A005_TaoListElements\bin\Debug\A005_TaoListElements.dll
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A005_TaoListElements\bin\Debug\A005_TaoListElements.pdb
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A005_TaoListElements\obj\Debug\A005_TaoListElements.csproj.AssemblyReference.cache
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A005_TaoListElements\obj\Debug\A005_TaoListElements.csproj.CoreCompileInputs.cache
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A005_TaoListElements\obj\Debug\A005_TaoListElements.dll
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A005_TaoListElements\obj\Debug\A005_TaoListElements.pdb

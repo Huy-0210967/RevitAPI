@@ -1,0 +1,6 @@
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\Revit_API_selection_bài_1\bin\Debug\Revit_API_selection_bài_1.dll
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\Revit_API_selection_bài_1\bin\Debug\Revit_API_selection_bài_1.pdb
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\Revit_API_selection_bài_1\obj\Debug\Revit_API_selection_bài_1.csproj.AssemblyReference.cache
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\Revit_API_selection_bài_1\obj\Debug\Revit_API_selection_bài_1.csproj.CoreCompileInputs.cache
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\Revit_API_selection_bài_1\obj\Debug\Revit_API_selection_bài_1.dll
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\Revit_API_selection_bài_1\obj\Debug\Revit_API_selection_bài_1.pdb

@@ -1,0 +1,6 @@
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A004_SelectPoint\obj\Debug\A004_SelectPoint.csproj.AssemblyReference.cache
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A004_SelectPoint\obj\Debug\A004_SelectPoint.csproj.CoreCompileInputs.cache
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A004_SelectPoint\bin\Debug\A004_SelectPoint.dll
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A004_SelectPoint\bin\Debug\A004_SelectPoint.pdb
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A004_SelectPoint\obj\Debug\A004_SelectPoint.dll
+D:\Downloads\Tài liệu\Lập trình ứng dụng trong xây dựng\Code\A004_SelectPoint\obj\Debug\A004_SelectPoint.pdb
